@@ -1,2 +1,2 @@
 # scoala-informala-homeworks
-Cristian Adrian Olariu
+Cristi Olariu
